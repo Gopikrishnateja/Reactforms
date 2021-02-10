@@ -31,6 +31,9 @@ const Register = () => {
             console.log(pincode)
             console.log(comments)
 
+
+            alert("Form Register Successfully");
+            window.location.href= "/";
         };
 
      
